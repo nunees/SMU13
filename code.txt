@@ -1,0 +1,94 @@
+ <table cellpadding="0" cellspacing="0" border="0"
+        style="width: auto; max-width: 100%; border-collapse: collapse; font-family: Maersk Headline, Microsoft JhengHei,Microsoft Yahei, Arial, sans-serif;">
+        <tr>
+            <!-- Logo Column -->
+            <td style="width: 200px; padding: 10px; vertical-align: middle; border-right: 2px solid #eee;">
+                <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW1yMXo1dHJ1ZjZ3ZGExM2g3ZW5mZ3hhM3kwN2VnZmplOXA2b3h3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pnPz6Q2mJsL5FGsSkB/giphy.gif"
+                    alt="Logo" style="width: 200px; height: 200px;">
+            </td>
+
+            <!-- Contact Information Column -->
+            <td style="padding: 10px 20px; vertical-align: middle;">
+                <table cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
+                    <tr>
+                        <td style="padding-bottom: 10px;">
+                            <span style="font-size: 18px; color: #42B0D5; font-weight: bold; display: block;">Felipe
+                                Nunes da
+                                Silva</span>
+                            <span style="font-size: 14px; color: #00243D; font-weight: bold;">Landside
+                                Transportation</span>
+                        </td>
+                    </tr>
+
+                    <tr style="padding-bottom: 5px;">
+                        <td style="padding-bottom: 5px;">
+                            <span style="font-size: 14px; color: #7f8c8d;">Logistic Assistant | <span
+                                    style="color: #42B0D5; font-weight: bold;">Southeast -
+                                    Trucking</span></span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="padding-bottom: 5px;">
+                            <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M14.05 6C15.0268 6.19057 15.9244 6.66826 16.6281 7.37194C17.3318 8.07561 17.8095 8.97326 18 9.95M14.05 2C16.0793 2.22544 17.9716 3.13417 19.4163 4.57701C20.8609 6.01984 21.7721 7.91101 22 9.94M18.5 21C9.93959 21 3 14.0604 3 5.5C3 5.11378 3.01413 4.73086 3.04189 4.35173C3.07375 3.91662 3.08968 3.69907 3.2037 3.50103C3.29814 3.33701 3.4655 3.18146 3.63598 3.09925C3.84181 3 4.08188 3 4.56201 3H7.37932C7.78308 3 7.98496 3 8.15802 3.06645C8.31089 3.12515 8.44701 3.22049 8.55442 3.3441C8.67601 3.48403 8.745 3.67376 8.88299 4.05321L10.0491 7.26005C10.2096 7.70153 10.2899 7.92227 10.2763 8.1317C10.2643 8.31637 10.2012 8.49408 10.0942 8.64506C9.97286 8.81628 9.77145 8.93713 9.36863 9.17882L8 10C9.2019 12.6489 11.3501 14.7999 14 16L14.8212 14.6314C15.0629 14.2285 15.1837 14.0271 15.3549 13.9058C15.5059 13.7988 15.6836 13.7357 15.8683 13.7237C16.0777 13.7101 16.2985 13.7904 16.74 13.9509L19.9468 15.117C20.3262 15.255 20.516 15.324 20.6559 15.4456C20.7795 15.553 20.8749 15.6891 20.9335 15.842C21 16.015 21 16.2169 21 16.6207V19.438C21 19.9181 21 20.1582 20.9007 20.364C20.8185 20.5345 20.663 20.7019 20.499 20.7963C20.3009 20.9103 20.0834 20.9262 19.6483 20.9581C19.2691 20.9859 18.8862 21 18.5 21Z"
+                                    stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                            </svg>
+                            <span style="font-size: 14px; color: #7f8c8d; padding-left: 3px;">
+                                <a href="tel:+15551234567"
+                                    onMouseOver="this.style.color='#42B0D5'"
+                                    onMouseOut="this.style.color='#7f8c8d'"
+                                    style="color: #7f8c8d; text-decoration: none;">+55 (13) 99728 2341</a>
+                            </span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="padding-bottom: 5px;">
+                            <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M21 8L17.4392 9.97822C15.454 11.0811 14.4614 11.6326 13.4102 11.8488C12.4798 12.0401 11.5202 12.0401 10.5898 11.8488C9.53864 11.6326 8.54603 11.0811 6.5608 9.97822L3 8M6.2 19H17.8C18.9201 19 19.4802 19 19.908 18.782C20.2843 18.5903 20.5903 18.2843 20.782 17.908C21 17.4802 21 16.9201 21 15.8V8.2C21 7.0799 21 6.51984 20.782 6.09202C20.5903 5.71569 20.2843 5.40973 19.908 5.21799C19.4802 5 18.9201 5 17.8 5H6.2C5.0799 5 4.51984 5 4.09202 5.21799C3.71569 5.40973 3.40973 5.71569 3.21799 6.09202C3 6.51984 3 7.07989 3 8.2V15.8C3 16.9201 3 17.4802 3.21799 17.908C3.40973 18.2843 3.71569 18.5903 4.09202 18.782C4.51984 19 5.07989 19 6.2 19Z"
+                                    stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                            </svg>
+                            <span style="font-size: 14px; color: #7f8c8d; padding-left: 3px;">
+                                <a href="mailto:felipe.n@maersk.com"
+                                    onMouseOver="this.style.color='#42B0D5'"
+                                    onMouseOut="this.style.color='#7f8c8d'"
+                                    style="color: #7f8c8d; text-decoration: none;">felipe.n@maersk.com</a>
+                            </span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <svg fill="#000000" width="16px" height="16px" viewBox="0 0 512 512" id="_x30_1"
+                                version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg"
+                                xmlns:xlink="http://www.w3.org/1999/xlink">
+                                <path
+                                    d="M256,0C114.615,0,0,114.615,0,256s114.615,256,256,256s256-114.615,256-256S397.385,0,256,0z M418.275,146h-46.667  c-5.365-22.513-12.324-43.213-20.587-61.514c15.786,8.776,30.449,19.797,43.572,32.921C403.463,126.277,411.367,135.854,418.275,146  z M452,256c0,17.108-2.191,33.877-6.414,50h-64.034c1.601-16.172,2.448-32.887,2.448-50s-0.847-33.828-2.448-50h64.034  C449.809,222.123,452,238.892,452,256z M256,452c-5.2,0-21.048-10.221-36.844-41.813c-6.543-13.087-12.158-27.994-16.752-44.187  h107.191c-4.594,16.192-10.208,31.1-16.752,44.187C277.048,441.779,261.2,452,256,452z M190.813,306  c-1.847-16.247-2.813-33.029-2.813-50s0.966-33.753,2.813-50h130.374c1.847,16.247,2.813,33.029,2.813,50s-0.966,33.753-2.813,50  H190.813z M60,256c0-17.108,2.191-33.877,6.414-50h64.034c-1.601,16.172-2.448,32.887-2.448,50s0.847,33.828,2.448,50H66.414  C62.191,289.877,60,273.108,60,256z M256,60c5.2,0,21.048,10.221,36.844,41.813c6.543,13.087,12.158,27.994,16.752,44.187H202.404  c4.594-16.192,10.208-31.1,16.752-44.187C234.952,70.221,250.8,60,256,60z M160.979,84.486c-8.264,18.301-15.222,39-20.587,61.514  H93.725c6.909-10.146,14.812-19.723,23.682-28.593C130.531,104.283,145.193,93.262,160.979,84.486z M93.725,366h46.667  c5.365,22.513,12.324,43.213,20.587,61.514c-15.786-8.776-30.449-19.797-43.572-32.921C108.537,385.723,100.633,376.146,93.725,366z   M351.021,427.514c8.264-18.301,15.222-39,20.587-61.514h46.667c-6.909,10.146-14.812,19.723-23.682,28.593  C381.469,407.717,366.807,418.738,351.021,427.514z" />
+                            </svg>
+                            <span style="font-size: 14px; color: #7f8c8d; padding-left: 3px;">
+                                <a href="https://www.maersk.com"
+                                    onMouseOver="this.style.color='#42B0D5'"
+                                    onMouseOut="this.style.color='#7f8c8d'"
+                                    style="color: #7f8c8d; text-decoration: none;">maersk.com</a>
+                            </span>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+
+        <tr>
+            <td colspan="2" style="max-width: 700px;">
+                <p style="font-size: 12px; padding: 10px; border-top: 1px solid #eee; color: #7f8c8d;">
+                    <b>Confidentiality Notice:</b> This e-mail message, including any attachments, is for the sole use
+                    of the
+                    intended recipient(s) and may contain confidential and privileged information. Any unauthorized
+                    review, use, disclosure or distribution of this information is prohibited, and may be punishable by
+                    law. If this was sent to you in error, please notify the sender by reply e-mail and destroy all
+                    copies of the original message. Please consider the environment before printing this e-mail.
+                </p>
+            </td>
+        </tr>
+    </table>
